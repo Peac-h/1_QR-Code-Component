@@ -6,14 +6,15 @@ This QR code component is one of the easy challenges, intended for newbie coders
 
 The only difference between the solution and given references is the media query part. No single media query was necessary, but I added few, as I had the knowledge already.
 
-## Built with
+## Checkout the live demo
+[QR code component](https://peac-h.github.io/1_QR-Code-Component/)
 
-- HTML
-- CSS
-- & LOVE
+## Built with
+- html
+- css
+- & love
 
 ## Author
-
-- Github - https://github.com/Peac-h
-- LinkedIn - https://www.linkedin.com/in/tamta-lomidze-b336b9266/
-- Twitter - https://twitter.com/p6eac_h
+- [Github](https://github.com/Peac-h)
+- [LinkedIn](https://www.linkedin.com/in/tamta-lomidze-b336b9266/)
+- [Twitter](https://twitter.com/p6eac_h)
