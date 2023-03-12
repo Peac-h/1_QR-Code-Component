@@ -9,6 +9,8 @@ The only difference between the solution and given references is the media query
 ## Checkout the live demo
 [QR code component](https://peac-h.github.io/1_QR-Code-Component/)
 
+![QR code component](https://raw.githubusercontent.com/Peac-h/1_QR-Code-Component/main/screenshot.png)
+
 ## Built with
 - html
 - css
